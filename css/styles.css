@@ -67,7 +67,7 @@ body {
   color: var(--color-background-hover);
 }
 .current {
-  color: var(--color-accent);
+  color: var(--color-background-hover);
 }
 .header-links {
   font-style: normal;
